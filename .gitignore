@@ -1,0 +1,9 @@
+// some of the files and directories that git should ignore while pushing them to ur git as they are available in ur project in npm. 
+
+// this is a file that holds those file u don't need in ur git. 
+// Rem u can only ignor what is untracked, and has to be a file or directories
+// NOTE u can ignore files that are: Automatically generated, Personal or local to your machine, 
+// Contain secrets, and Files Not needed for others to run the project
+// NOTE with this .gitignore, u can't commit anything or file being ignored
+
+/node_modules
